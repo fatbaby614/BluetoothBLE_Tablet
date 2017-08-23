@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

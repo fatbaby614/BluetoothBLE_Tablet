@@ -1,0 +1,7 @@
+#Tue Aug 22 17:36:36 CST 2017
+base.0=/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8dc977677111fe7e5d471b145e34c4c732e217f2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fd0cc43c69f6568cf3a62dfab75e8be25cb20ce2/classes.dex
+base.1=/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fd0cc43c69f6568cf3a62dfab75e8be25cb20ce2
+file.0=/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8dc977677111fe7e5d471b145e34c4c732e217f2/classes.dex

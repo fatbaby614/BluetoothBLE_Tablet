@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tanhuang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_1047fd54177fb7726b477bcffa2cdecee9c14499/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tanhuang/.android/build-cache/fbcfc1801c337e738be13a74b3605ae9116426b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_e9e5760cee1722c6161bbc26c16ea1f03a7b6d23.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tanhuang/.android/build-cache/0de775b8b18a9578d2209afe6167547d13d39d2d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f15edaa1aa69f7de27cf33bedf1aff89b77250b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tanhuang/.android/build-cache/cc7982555153b89a3f2805cfdae41e2b22d097cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc49ebe2b206a32c19ac2eb773d7568f12aa446d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tanhuang/.android/build-cache/6a969b5c0248f869e9bdffc498a7a6aa362d3845/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3f04cf2e18b81c3f999503f865fe0fa959456c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tanhuang/.android/build-cache/8a83fb4a59fe37732f8982497e96cf2c46b3c9e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b609b716908f9e548bb98c5194d233822269d1ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tanhuang/.android/build-cache/0de775b8b18a9578d2209afe6167547d13d39d2d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_f15edaa1aa69f7de27cf33bedf1aff89b77250b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tanhuang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_1047fd54177fb7726b477bcffa2cdecee9c14499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tanhuang/.android/build-cache/8a83fb4a59fe37732f8982497e96cf2c46b3c9e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_b609b716908f9e548bb98c5194d233822269d1ae.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tanhuang/.android/build-cache/343978930b6dd845373dc05af72a9f474dc6c7ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d0991e05490a8fc347c4b6358ce3c828f59a7b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tanhuang/.android/build-cache/343978930b6dd845373dc05af72a9f474dc6c7ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_9d0991e05490a8fc347c4b6358ce3c828f59a7b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tanhuang/.android/build-cache/82137119a900cb41af120e8f7dc245153bc45e1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_2a96b8f01b6e4e9af5e9ec1deab5ec3504cd40e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tanhuang/.android/build-cache/d1c6f1ab202f08e2c9608d0f5ad308d53698ed40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_06c171e5e6b4dd0517057747d1fcfd2e6f765bdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tanhuang/.android/build-cache/cc7982555153b89a3f2805cfdae41e2b22d097cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_cc49ebe2b206a32c19ac2eb773d7568f12aa446d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="873a22e2cd4106d8d3ba017b5e44cb4a205e75e4">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8dc977677111fe7e5d471b145e34c4c732e217f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tanhuang/.android/build-cache/82137119a900cb41af120e8f7dc245153bc45e1b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a96b8f01b6e4e9af5e9ec1deab5ec3504cd40e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fd0cc43c69f6568cf3a62dfab75e8be25cb20ce2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tanhuang/.android/build-cache/d1c6f1ab202f08e2c9608d0f5ad308d53698ed40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_06c171e5e6b4dd0517057747d1fcfd2e6f765bdf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tanhuang/.android/build-cache/fbcfc1801c337e738be13a74b3605ae9116426b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9e5760cee1722c6161bbc26c16ea1f03a7b6d23/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tanhuang/.android/build-cache/b0c8cb404ded179a5420f4b865c6548ca68d273d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_7351d7e36f12432bb55837d2c5b4e82076d9ad4b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tanhuang/.android/build-cache/e529ce952c08b347609cd0cebc59647755969646/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_414f3266d0b1abc9283fceabbf2001c6ccdbff1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ac2353ababb0dc68cae3b794ccb744230e3ddf0">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8dc977677111fe7e5d471b145e34c4c732e217f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fd0cc43c69f6568cf3a62dfab75e8be25cb20ce2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tanhuang/.android/build-cache/6a969b5c0248f869e9bdffc498a7a6aa362d3845/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_c3f04cf2e18b81c3f999503f865fe0fa959456c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tanhuang/.android/build-cache/6d8c0c56c3a966f925c0a2fa7b6336444d85b889/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_63abf9ab908275264cd304318bfcae46f46329fc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tanhuang/.android/build-cache/6d8c0c56c3a966f925c0a2fa7b6336444d85b889/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63abf9ab908275264cd304318bfcae46f46329fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tanhuang/.android/build-cache/b0c8cb404ded179a5420f4b865c6548ca68d273d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7351d7e36f12432bb55837d2c5b4e82076d9ad4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tanhuang/.android/build-cache/e529ce952c08b347609cd0cebc59647755969646/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/tanhuang/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_414f3266d0b1abc9283fceabbf2001c6ccdbff1a.jar" />
+    </item>
+
+</items>
